@@ -1,0 +1,3 @@
+nama: muhamad fadhil
+umur : 23
+pekerjaan : software engineer
